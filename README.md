@@ -19,6 +19,11 @@ This repository has the following structure:
     ├── search/
     └── ...
 ```
+
+<img width="728" alt="Screen Shot 2023-07-12 at 5 20 41 PM" src="https://github.com/d-manishag/Twitter-Search-App/assets/138808132/7d5ccabd-12ba-488e-8d84-9e73bab1963a">
+
+
+
 # Setup 
 (Installation and steps for publishing the app)
 - Python 3.6 & above
@@ -64,5 +69,9 @@ hashtags, and date ranges.
     streamlit run search_app.py
     ```
 
-    Open the provided local URL in your browser to interact with the application.
+   Open the provided local URL in your browser to interact with the application.
+
+  # Application in Action
+
+   https://github.com/d-manishag/Twitter-Search-App/assets/138808132/1b6c606e-f2a8-44ef-a6b4-7e13f9d3bb63
 
