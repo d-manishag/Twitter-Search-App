@@ -10,8 +10,7 @@ This repository has the following structure:
 │   └── ...
 ├── docs/
 │   ├── FinalReport.md
-│   └── ...
-├── presentation/
+|   ├── Presentation
 │   └── ...
 └── src/
     ├── cache/
